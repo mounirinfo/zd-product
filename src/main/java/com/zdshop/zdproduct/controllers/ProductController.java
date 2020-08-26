@@ -1,6 +1,6 @@
 package com.zdshop.zdproduct.controllers;
 
-import com.zdshop.zdproduct.beans.Product;
+import com.zdshop.zdproduct.model.Product;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.PathVariable;

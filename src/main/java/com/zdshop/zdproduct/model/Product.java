@@ -1,4 +1,4 @@
-package com.zdshop.zdproduct.beans;
+package com.zdshop.zdproduct.model;
 
 import lombok.*;
 
